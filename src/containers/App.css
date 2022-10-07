@@ -1,5 +1,17 @@
 h1 {
   font-family: monospace, 'arial';
   font-size: 100px;
-  color: rgb(164, 237, 255);
+  color: rgb(255, 255, 255);
+}
+
+span {
+  color: aquamarine;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
 }
