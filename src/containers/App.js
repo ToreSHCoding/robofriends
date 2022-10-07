@@ -39,7 +39,7 @@ class App extends Component {
       <h1>Loading</h1> :
         (
           <div className="tc">
-            <h1 className="f-subheadline lh-title">Search-<span>A</span>-Bot</h1>
+            <h1 className="f-subheadline-l lh-title">Search-<span>A</span>-Bot</h1>
             <SearchBox searchChange={this.onSearchChange}/>
             <Scroll>
               <ErrorBoundary>
